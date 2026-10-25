@@ -1,0 +1,15 @@
+﻿.env
+.env.*
+!.env.example
+db.php
+mail_config.php
+vendor/
+*.log
+*.backup
+*.dump
+*.zip
+test_db.php
+setup_reset_mail.php
+check_reset_setup.php
+password_reset_worker.php
+start_reset_mailer.cmd
